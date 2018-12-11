@@ -32,6 +32,7 @@ int main(void){
 
 	//Set time, data and alarm
 	//1) Set time
+	//komentarz dodatkowy
 	sTime.Hours = 23;
 	sTime.Minutes = 59;
 	sTime.Seconds = 45;
